@@ -10,3 +10,6 @@ Controle de todos os capitais que gasto ou recebido. Possibilidade de introduç�
 
 React.JS: Linguagem Principal, HTML & CSS: Estilização. 
 <img width="1470" alt="Captura de Tela 2025-02-22 às 16 11 01" src="https://github.com/user-attachments/assets/4c3e1721-ea89-4125-96d2-fd21daadc148" />
+
+Future:
+App 
