@@ -82,7 +82,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ---
 
-Desenvolvido com ❤️ para ajudar você a controlar suas finanças de forma simples e eficiente!
+## PrintScreen
 <img width="1470" alt="Captura de Tela 2025-02-22 às 16 11 01" src="https://github.com/user-attachments/assets/4c3e1721-ea89-4125-96d2-fd21daadc148" />
 
 Future:
